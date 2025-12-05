@@ -24,3 +24,9 @@ Built using the MERN Stack (MongoDB, Express, React, Node.js).
 cd backend
 npm install
 npm start
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm start
